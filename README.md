@@ -6,3 +6,6 @@ A easy-to-run &amp; make web server, run a localhost server from your file with 
 * Go to localhost:8000
 * All done! To change the local host port, edit app.py.
 * For changing source, edit the app.py file.
+
+# Contributors
+* Special thanks to @gabzin for a useful snipet!
