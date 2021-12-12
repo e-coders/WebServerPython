@@ -8,4 +8,4 @@ A easy-to-run &amp; make web server, run a localhost server from your file with 
 * For changing source, edit the app.py file.
 
 # Contributors
-* Special thanks to @gabzin for a useful snipet!
+* Special thanks to @gabzin for a useful snnipet to install flaks only if the user doesn't have already.
